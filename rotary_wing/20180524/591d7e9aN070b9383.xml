@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20180524</folder>
+	<filename>591d7e9aN070b9383.jpg</filename>
+	<path>/home/zheng/ESDC_2018/drone-detection-image-set/rotary_wing/20180524/591d7e9aN070b9383.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone_rotary_wing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>144</ymin>
+			<xmax>457</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>
