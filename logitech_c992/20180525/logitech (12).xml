@@ -1,0 +1,38 @@
+<annotation>
+	<folder>20180525</folder>
+	<filename>logitech (12).jpg</filename>
+	<path>/home/hope/Drone_label/20180525/logitech (12).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1041</xmin>
+			<ymin>523</ymin>
+			<xmax>1116</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1154</xmin>
+			<ymin>281</ymin>
+			<xmax>1244</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>
