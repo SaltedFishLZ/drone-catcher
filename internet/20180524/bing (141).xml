@@ -1,0 +1,37 @@
+<annotation>
+   <filename>bing (141).jpg</filename>
+   <path>/home/zheng/ESDC_2018/drone-detection-image-set/internet/20180524/bing (141).jpg</path>
+   <source>
+      <database>Unknow</database>
+   </source>
+   <size>
+      <width>3200</width>
+      <height>1680</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>561</xmin>
+         <ymin>3</ymin>
+         <xmax>2129</xmax>
+         <ymax>626</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>person</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>2543</xmin>
+         <ymin>1176</ymin>
+         <xmax>2814</xmax>
+         <ymax>1681</ymax>
+      </bndbox>
+   </object>
+</annotation>
