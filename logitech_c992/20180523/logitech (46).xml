@@ -1,0 +1,25 @@
+<annotation>
+   <filename>logitech (46).jpg</filename>
+   <path>/home/zheng/ESDC_2018/drone-detection-image-set/logitech_c992/20180523/logitech (46).jpg</path>
+   <source>
+      <database>Unknow</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>test_drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>851</xmin>
+         <ymin>413</ymin>
+         <xmax>1104</xmax>
+         <ymax>554</ymax>
+      </bndbox>
+   </object>
+</annotation>
