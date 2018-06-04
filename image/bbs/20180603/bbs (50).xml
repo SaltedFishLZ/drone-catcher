@@ -1,0 +1,38 @@
+<annotation>
+	<folder>20180603</folder>
+	<filename>bbs (50).jpg</filename>
+	<path>/home/zheng/ESDC_2018/drone-detection-image-set/image/bbs/20180603/bbs (50).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>140</ymin>
+			<xmax>272</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>151</ymin>
+			<xmax>382</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
