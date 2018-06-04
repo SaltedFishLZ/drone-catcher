@@ -1,0 +1,9 @@
+Currently(2018/06/04), there are 4 classes for main data-set:
+
+	1.	drone
+	2.	shadow_of_drone
+	3.	mirror_image_of_drone
+	4.	person
+
+
+Also, there is an extension data-set : rotary_wing
