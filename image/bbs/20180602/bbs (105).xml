@@ -1,0 +1,38 @@
+<annotation>
+	<folder>20180602</folder>
+	<filename>bbs (105).jpg</filename>
+	<path>/home/hope/Drone_label/20180602/bbs (105).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>221</ymin>
+			<xmax>356</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>195</ymin>
+			<xmax>193</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>
