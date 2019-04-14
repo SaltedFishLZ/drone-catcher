@@ -1,0 +1,37 @@
+<annotation>
+<filename>454.xml</filename>
+<path>drone/454.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>human</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>600</xmin>
+         <ymin>106</ymin>
+         <xmax>740</xmax>
+         <ymax>373</ymax>
+      </bndbox>
+   </object>
+   <object>
+<name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>960</xmin>
+         <ymin>485</ymin>
+         <xmax>1103</xmax>
+         <ymax>572</ymax>
+      </bndbox>
+   </object>
+</annotation>

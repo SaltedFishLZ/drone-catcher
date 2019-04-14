@@ -1,0 +1,38 @@
+<annotation>
+<folder>drone</folder>
+<filename>513.xml</filename>
+<path>drone/513.xml</path>
+	<source>
+<database>DroneCatcher</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1174</xmin>
+			<ymin>172</ymin>
+			<xmax>1296</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>276</ymin>
+			<xmax>1025</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

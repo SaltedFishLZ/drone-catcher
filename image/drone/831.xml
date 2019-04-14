@@ -1,0 +1,61 @@
+<annotation>
+<filename>831.xml</filename>
+<path>drone/831.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1490</width>
+      <height>668</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>297</xmin>
+         <ymin>387</ymin>
+         <xmax>526</xmax>
+         <ymax>545</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>324</xmin>
+         <ymin>21</ymin>
+         <xmax>391</xmax>
+         <ymax>49</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>453</xmin>
+         <ymin>75</ymin>
+         <xmax>552</xmax>
+         <ymax>135</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>673</xmin>
+         <ymin>7</ymin>
+         <xmax>887</xmax>
+         <ymax>91</ymax>
+      </bndbox>
+   </object>
+</annotation>

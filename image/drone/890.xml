@@ -1,0 +1,37 @@
+<annotation>
+<filename>890.xml</filename>
+<path>drone/890.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>640</width>
+      <height>427</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>5</xmin>
+         <ymin>117</ymin>
+         <xmax>626</xmax>
+         <ymax>318</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>shadow_of_drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>96</xmin>
+         <ymin>231</ymin>
+         <xmax>530</xmax>
+         <ymax>345</ymax>
+      </bndbox>
+   </object>
+</annotation>

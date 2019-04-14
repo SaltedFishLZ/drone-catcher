@@ -1,0 +1,37 @@
+<annotation>
+<filename>466.xml</filename>
+<path>drone/466.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>human</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>673</xmin>
+         <ymin>421</ymin>
+         <xmax>862</xmax>
+         <ymax>720</ymax>
+      </bndbox>
+   </object>
+   <object>
+<name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1192</xmin>
+         <ymin>645</ymin>
+         <xmax>1313</xmax>
+         <ymax>723</ymax>
+      </bndbox>
+   </object>
+</annotation>

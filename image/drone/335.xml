@@ -1,0 +1,25 @@
+<annotation>
+<filename>335.xml</filename>
+<path>drone/335.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+<name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>865</xmin>
+         <ymin>214</ymin>
+         <xmax>978</xmax>
+         <ymax>266</ymax>
+      </bndbox>
+   </object>
+</annotation>

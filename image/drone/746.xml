@@ -1,0 +1,26 @@
+<annotation>
+<folder>drone</folder>
+<filename>746.xml</filename>
+<path>drone/746.xml</path>
+	<source>
+<database>DroneCatcher</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>321</ymin>
+			<xmax>904</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

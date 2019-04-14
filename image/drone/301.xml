@@ -1,0 +1,37 @@
+<annotation>
+<filename>301.xml</filename>
+<path>drone/301.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>human</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1178</xmin>
+         <ymin>837</ymin>
+         <xmax>1298</xmax>
+         <ymax>1058</ymax>
+      </bndbox>
+   </object>
+   <object>
+<name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>954</xmin>
+         <ymin>820</ymin>
+         <xmax>1078</xmax>
+         <ymax>879</ymax>
+      </bndbox>
+   </object>
+</annotation>

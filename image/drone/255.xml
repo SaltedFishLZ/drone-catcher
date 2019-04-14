@@ -1,0 +1,37 @@
+<annotation>
+<filename>255.xml</filename>
+<path>drone/255.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>drone_shadow</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>940</xmin>
+         <ymin>370</ymin>
+         <xmax>1146</xmax>
+         <ymax>455</ymax>
+      </bndbox>
+   </object>
+   <object>
+<name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>863</xmin>
+         <ymin>261</ymin>
+         <xmax>1190</xmax>
+         <ymax>394</ymax>
+      </bndbox>
+   </object>
+</annotation>

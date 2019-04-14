@@ -1,0 +1,37 @@
+<annotation>
+<filename>303.xml</filename>
+<path>drone/303.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>human</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1121</xmin>
+         <ymin>66</ymin>
+         <xmax>1353</xmax>
+         <ymax>889</ymax>
+      </bndbox>
+   </object>
+   <object>
+<name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>917</xmin>
+         <ymin>565</ymin>
+         <xmax>1022</xmax>
+         <ymax>631</ymax>
+      </bndbox>
+   </object>
+</annotation>

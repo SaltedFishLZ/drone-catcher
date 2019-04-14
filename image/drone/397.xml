@@ -1,0 +1,37 @@
+<annotation>
+<filename>397.xml</filename>
+<path>drone/397.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>human</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>622</xmin>
+         <ymin>470</ymin>
+         <xmax>732</xmax>
+         <ymax>765</ymax>
+      </bndbox>
+   </object>
+   <object>
+<name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>513</xmin>
+         <ymin>342</ymin>
+         <xmax>588</xmax>
+         <ymax>383</ymax>
+      </bndbox>
+   </object>
+</annotation>

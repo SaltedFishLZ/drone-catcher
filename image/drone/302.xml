@@ -1,0 +1,25 @@
+<annotation>
+<filename>302.xml</filename>
+<path>drone/302.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>human</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1220</xmin>
+         <ymin>751</ymin>
+         <xmax>1345</xmax>
+         <ymax>948</ymax>
+      </bndbox>
+   </object>
+</annotation>

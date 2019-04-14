@@ -1,0 +1,61 @@
+<annotation>
+<filename>996.xml</filename>
+<path>drone/996.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>2040</width>
+      <height>1360</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>390</xmin>
+         <ymin>137</ymin>
+         <xmax>1768</xmax>
+         <ymax>1361</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>person</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1751</xmin>
+         <ymin>1</ymin>
+         <xmax>2028</xmax>
+         <ymax>540</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>person</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1155</xmin>
+         <ymin>1</ymin>
+         <xmax>1488</xmax>
+         <ymax>333</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>person</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1991</xmin>
+         <ymin>652</ymin>
+         <xmax>1992</xmax>
+         <ymax>652</ymax>
+      </bndbox>
+   </object>
+</annotation>

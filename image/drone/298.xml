@@ -1,0 +1,37 @@
+<annotation>
+<filename>298.xml</filename>
+<path>drone/298.xml</path>
+   <source>
+<database>DroneCatcher</database>
+   </source>
+   <size>
+      <width>1920</width>
+      <height>1080</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>human</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1324</xmin>
+         <ymin>844</ymin>
+         <xmax>1507</xmax>
+         <ymax>1064</ymax>
+      </bndbox>
+   </object>
+   <object>
+<name>drone</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1186</xmin>
+         <ymin>449</ymin>
+         <xmax>1320</xmax>
+         <ymax>517</ymax>
+      </bndbox>
+   </object>
+</annotation>
