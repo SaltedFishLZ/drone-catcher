@@ -1,25 +1,26 @@
 <annotation>
-<filename>423.xml</filename>
-<path>drone/423.xml</path>
-   <source>
-<database>DroneCatcher</database>
-   </source>
-   <size>
-      <width>1920</width>
-      <height>1080</height>
-      <depth>3</depth>
-   </size>
-   <segmented>0</segmented>
-   <object>
-<name>drone</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>1118</xmin>
-         <ymin>24</ymin>
-         <xmax>1641</xmax>
-         <ymax>327</ymax>
-      </bndbox>
-   </object>
+	<folder>drone</folder>
+	<filename>423.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/423.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>1118</xmin>
+			<ymin>24</ymin>
+			<xmax>1641</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
 </annotation>

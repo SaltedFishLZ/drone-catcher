@@ -1,25 +1,26 @@
 <annotation>
-<filename>784.xml</filename>
-<path>drone/784.xml</path>
-   <source>
-<database>DroneCatcher</database>
-   </source>
-   <size>
-      <width>1280</width>
-      <height>720</height>
-      <depth>3</depth>
-   </size>
-   <segmented>0</segmented>
-   <object>
-      <name>drone</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>27</xmin>
-         <ymin>94</ymin>
-         <xmax>1211</xmax>
-         <ymax>721</ymax>
-      </bndbox>
-   </object>
+	<folder>drone</folder>
+	<filename>784.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/784.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>94</ymin>
+			<xmax>1211</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
 </annotation>

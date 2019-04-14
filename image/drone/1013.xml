@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drone</folder>
+	<filename>1013.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/1013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>448</ymin>
+			<xmax>1248</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,25 +1,26 @@
 <annotation>
-<filename>976.xml</filename>
-<path>drone/976.xml</path>
-   <source>
-<database>DroneCatcher</database>
-   </source>
-   <size>
-      <width>2400</width>
-      <height>1414</height>
-      <depth>3</depth>
-   </size>
-   <segmented>0</segmented>
-   <object>
-      <name>drone</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>1</xmin>
-         <ymin>114</ymin>
-         <xmax>2401</xmax>
-         <ymax>869</ymax>
-      </bndbox>
-   </object>
+	<folder>drone</folder>
+	<filename>976.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/976.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>114</ymin>
+			<xmax>2400</xmax>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
 </annotation>

@@ -1,37 +1,38 @@
 <annotation>
-<filename>378.xml</filename>
-<path>drone/378.xml</path>
-   <source>
-<database>DroneCatcher</database>
-   </source>
-   <size>
-      <width>1920</width>
-      <height>1080</height>
-      <depth>3</depth>
-   </size>
-   <segmented>0</segmented>
-   <object>
-      <name>human</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>429</xmin>
-         <ymin>576</ymin>
-         <xmax>655</xmax>
-         <ymax>1081</ymax>
-      </bndbox>
-   </object>
-   <object>
-<name>drone</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>848</xmin>
-         <ymin>357</ymin>
-         <xmax>1014</xmax>
-         <ymax>430</ymax>
-      </bndbox>
-   </object>
+	<folder>drone</folder>
+	<filename>378.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/378.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>576</ymin>
+			<xmax>655</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>848</xmin>
+			<ymin>357</ymin>
+			<xmax>1014</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
 </annotation>

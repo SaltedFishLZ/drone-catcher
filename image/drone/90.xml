@@ -1,9 +1,9 @@
-<annotation verified="yes">
-<folder>drone</folder>
-<filename>90.xml</filename>
-<path>drone/90.xml</path>
+<annotation>
+	<folder>drone</folder>
+	<filename>90.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/90.jpg</path>
 	<source>
-<database>DroneCatcher</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>640</width>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>drone</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

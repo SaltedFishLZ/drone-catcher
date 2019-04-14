@@ -1,25 +1,26 @@
 <annotation>
-<filename>885.xml</filename>
-<path>drone/885.xml</path>
-   <source>
-<database>DroneCatcher</database>
-   </source>
-   <size>
-      <width>370</width>
-      <height>297</height>
-      <depth>3</depth>
-   </size>
-   <segmented>0</segmented>
-   <object>
-      <name>drone</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>1</xmin>
-         <ymin>109</ymin>
-         <xmax>371</xmax>
-         <ymax>200</ymax>
-      </bndbox>
-   </object>
+	<folder>drone</folder>
+	<filename>885.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/885.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>109</ymin>
+			<xmax>370</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
 </annotation>

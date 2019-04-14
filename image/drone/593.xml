@@ -1,9 +1,9 @@
 <annotation>
-<folder>drone</folder>
-<filename>593.xml</filename>
-<path>drone/593.xml</path>
+	<folder>drone</folder>
+	<filename>593.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/593.jpg</path>
 	<source>
-<database>DroneCatcher</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>1920</width>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>789</xmin>
-			<ymin>394</ymin>
-			<xmax>929</xmax>
-			<ymax>481</ymax>
+			<xmin>806</xmin>
+			<ymin>408</ymin>
+			<xmax>894</xmax>
+			<ymax>468</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,25 +1,26 @@
 <annotation>
-<filename>444.xml</filename>
-<path>drone/444.xml</path>
-   <source>
-<database>DroneCatcher</database>
-   </source>
-   <size>
-      <width>1920</width>
-      <height>1080</height>
-      <depth>3</depth>
-   </size>
-   <segmented>0</segmented>
-   <object>
-<name>drone</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>967</xmin>
-         <ymin>379</ymin>
-         <xmax>1053</xmax>
-         <ymax>428</ymax>
-      </bndbox>
-   </object>
+	<folder>drone</folder>
+	<filename>444.jpg</filename>
+	<path>/home/zheng/drone-detection-image-set/image/drone/444.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>967</xmin>
+			<ymin>379</ymin>
+			<xmax>1053</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
 </annotation>
